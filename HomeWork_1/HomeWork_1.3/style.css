@@ -1,0 +1,49 @@
+body{background: url(./Windows.jpg);}
+
+.A{position: relative;
+   left: 100px;}
+
+.B{color: rgb(16, 139, 0);}
+
+.C{text-align: center;}
+
+.D{position: relative;
+left: 100px;}
+
+.E1{display: inline-table;
+font-style: italic;
+position: relative;
+bottom: 40px;}
+.E2{display: inline-table;
+position: relative;
+bottom: 40px;}
+.E3{position: relative;
+bottom: 60px;}
+.E4{position: relative;
+bottom: 60px;}
+
+.F1{position: relative;
+bottom: 60px;}
+.F2{position: relative;
+bottom: 80px;}
+.F3{position: relative;
+bottom: 80px;}
+.F4{position: relative;
+bottom: 80px;}
+.F5{position: relative;
+bottom: 80px;}
+.F6{position: relative;
+bottom: 80px;}
+.F7{position: relative;
+bottom: 80px;}
+
+.G1{position: relative;
+bottom: 80px;}
+.G2{position: relative;
+bottom: 100px;}
+.G3{position: relative;
+bottom: 100px;}
+
+.H1{text-align: center;}
+.H{position: relative;
+left: 100px;}

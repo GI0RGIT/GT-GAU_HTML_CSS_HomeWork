@@ -1,0 +1,19 @@
+body{background-color: #aea6a3;}
+
+.A1{text-align: center;}
+
+.B{text-align: center;}
+.B1{display: inline-table;
+    font-style: italic;}
+.B2{display: inline-table;
+    text-decoration: underline;
+    color: #21881f;}
+
+.C{text-align: center;}
+.C1{display: inline-table;
+    text-indent: 12vh}
+.C2{display: inline-table;}
+
+.D{text-align: center;
+   position: relative;
+   bottom: 30px;}

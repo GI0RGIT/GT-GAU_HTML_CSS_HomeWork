@@ -1,0 +1,45 @@
+body{background: url(./Georgia.jpg);}
+
+.A{position: relative;
+left: 90px;
+color: rgb(0, 158, 0);}
+.A1{position: relative;
+left: 100px;}
+.a1{color: mediumblue;
+text-decoration: underline;}
+.a2{color: mediumblue;
+text-decoration: underline;
+position: relative; bottom: 20px;}
+.a3{position: relative; bottom: 40px;}
+.a4{position: relative; bottom: 60px;}
+.a5{position: relative; bottom: 80px;}
+.a6{position: relative; bottom: 100px;}
+.a7{position: relative; bottom: 120px;}
+.a8{position: relative; bottom: 140px;}
+.a9{position: relative; bottom: 160px;}
+
+.B{text-align: center;}
+.b1{display: inline-table;}
+.b2{display: inline-table;}
+.b3{position: relative;
+bottom: 20px;}
+.b4{position: relative;
+top: 20px;}
+.b5{position: relative;
+top: 40px;}
+
+.C{text-align: center;
+position: relative;
+top: 40px;}
+.c1{display: inline-table;}
+.c2{display: inline-table;}
+.c3{position: relative;
+bottom: 20px;}
+.c4{position: relative;
+top: 20px;}
+
+.D{text-align: center;}
+.d1{display: inline-table;}
+.d2{display: inline-table;}
+.d3{position: relative;
+bottom: 20px;}
