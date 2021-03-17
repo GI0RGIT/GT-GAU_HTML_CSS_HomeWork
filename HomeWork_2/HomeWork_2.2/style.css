@@ -1,0 +1,60 @@
+.A{border-style: solid;
+    border-color: rgb(0, 0, 0);}
+    .a1{border-style: dotted;
+    border-color: cyan;}
+    .a2{border-style: dashed;
+    border-color: cyan;}
+    .a3{border-style: solid;
+    border-color: cyan;}
+    .a4{border-style: double;
+    border-color: cyan;}
+    .a5{border-style: groove;
+    border-color: cyan;}
+    .a6{border-style: ridge;
+    border-color: cyan;}
+    .a7{border-style: inset;
+    border-color: cyan;}
+    .a8{border-style: outset;
+    border-color: cyan;}
+    .a9{border-style: none;}
+    .a10{border-style: hidden;}
+    .a11{border-style: dotted dashed solid double;
+    border-color: cyan;}
+
+    .B{border-style: solid;
+    border-color: black;}
+    .b1{border-style: solid; border-radius: 15px;
+    width: 130px;height: 90px; background-color: brown ;position: relative;left: 10px;}
+    .b2{border-style: solid; border-radius: 15px;
+    width: 130px;height: 90px;position: relative;left: 10px;}
+    .b3{background-image: url(Water.jpg);
+    border-radius: 15px;
+    width: 130px; height: 90px;position: relative;left: 10px;}
+
+    .C{border-style: solid; border-color: grey;}
+    .c1{border-radius: 15px 50px 30px 5px;
+        background: brown;
+        width: 200px; height: 150px;
+    position: relative; left: 10px;}
+    .c2{border-radius: 15px 50px 30px;
+        background: brown;
+        width: 200px; height: 150px;
+    position: relative; left: 10px;}
+    .c3{border-radius: 15px 50px;
+        background: brown;
+        width: 200px; height: 150px;
+    position: relative; left: 10px;}
+
+    .D{border-style: solid; border-color: grey;}
+    .d1{border-radius: 50px/15px;
+        background: brown;
+        width: 200px; height: 150px;
+    position: relative; left: 10px;}
+    .d2{border-radius: 15px/50px;
+        background: brown;
+        width: 200px; height: 150px;
+    position: relative; left: 10px;}
+    .d3{border-radius: 50%;
+        background: brown;
+        width: 200px; height: 150px;
+    position: relative; left: 10px;}

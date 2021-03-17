@@ -1,0 +1,51 @@
+body{background-color: white;}
+
+.A{border-style: solid;
+border-color: rgb(240, 240, 240);}
+.A1{font-style: normal;}
+.A2{font-style: italic;}
+.A3{font-style: oblique;}
+
+.B{border-style: solid;
+border-color: rgb(0, 0, 0) ;
+background-color: wheat;}
+.B1{text-align: center;}
+
+.C{color: red;
+text-align: end;}
+
+.D{border-style: solid;
+border-color: rgb(228, 228, 228);}
+.D1{text-align: center;}
+.D2{text-align: end;}
+.D3{position: relative;
+bottom: 20px;}
+.D4{position: relative;
+bottom: 40px;}
+.a1{height: 15px;
+    background-color: red;
+width: 1000px; position: relative;
+right: 440px;
+bottom: 50px;}
+
+.D5{text-align: end;}
+.D6{position: relative;
+bottom: 20px;}
+.D7{position: relative;
+bottom: 40px;}
+.a2{height: 15px;
+background-color: blue;
+width: 1000px;
+position: relative;
+right: 440px;
+bottom: 50px;}
+
+.b{border-style: solid;
+border-color: rgb(214, 214, 214);}
+.b1{text-decoration:line-through;}
+.b2{text-decoration: underline;}
+
+.c{border-style: solid;
+border-color: rgb(212, 212, 212);}
+.c1{word-spacing: 25px;}
+.c2{letter-spacing: 15px;}
