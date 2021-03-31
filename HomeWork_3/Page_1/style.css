@@ -1,0 +1,76 @@
+body{background-image: url(../HomePage/Background.jpg);
+background-position: center;
+width: 1200px;
+height: 1000px;}
+
+h1{text-align: center;
+position: relative;
+left: 300px;}
+
+.P1{text-align: center;
+position: relative;
+left: 335px;}
+.P2{text-align: center;
+position: relative;
+bottom: 15px;}
+
+.D1{background-image: url(./Pictures/Picture1.jpg);
+height: 400px;
+background-size: 400px;
+background-repeat: no-repeat;
+position: relative;
+left: 470px;}
+
+.P3{text-align: center;
+position: relative;
+left: 335px;
+bottom: 200px;}
+.P4{text-align: center;
+position: relative;
+left: 267px;
+bottom: 215px;}
+
+.D2{background-image: url(./Pictures/Picture2.PNG);
+height: 400px;
+background-size: 400px;
+background-repeat: no-repeat;
+position: relative;
+left: 470px;
+bottom: 200px;}
+
+.P5{text-align: center;
+position: relative;
+bottom: 390px;
+left: 335px;}
+.P6{text-align: center;
+position: relative;
+bottom: 405px;
+right: 34px;}
+
+.P7{text-align: center;
+position: relative;
+bottom: 410px;
+left: 298px;}
+.P8{text-align: center;
+position: relative;
+bottom: 410px;
+left: 329px;}
+
+.P9{text-align: center;
+position: relative;
+bottom: 430px;
+right: 106px;}
+
+h4{text-align: center;
+position: relative;
+bottom: 400px;
+right: 80px;}
+
+.H1{text-align: center;
+position: relative;
+bottom: 10px;
+left: 200px;}
+.H2{text-align: center;
+position: relative;
+bottom: 50px;
+left: 500px;}

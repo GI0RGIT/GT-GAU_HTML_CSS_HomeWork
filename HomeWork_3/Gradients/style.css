@@ -1,0 +1,8 @@
+table{border: solid 2px black;
+    height: 130px; 
+    width: 800px;
+background-color: gray;
+position: relative;
+top: 100px;}
+
+.D1{background-image: linear-gradient(red, green, blue);}

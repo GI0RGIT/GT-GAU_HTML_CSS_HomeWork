@@ -1,0 +1,63 @@
+body{background-image: url(Background.jpg);
+background-position: center;;
+background-repeat: no-repeat;
+height: 800px;
+width: 300px;}
+
+h1{text-align: center;
+position: relative;
+left: 800px;}
+
+ul{list-style: square;}
+.L1{color: rgb(0, 255, 110);}
+.L2{color: rgb(0, 4, 255);}
+
+.I1{background-image: url(./Pictures/HTML\ Icon.jpg);
+height: 250px;
+background-size: 250px;
+background-repeat: no-repeat;
+background-position: left bottom;
+position: relative;
+top: 375px;
+left: 100px;}
+
+.I2{background-image: url(./Pictures/CSS\ Icon.jpg);
+height: 250px;
+background-size: 250px;
+background-repeat: no-repeat;
+position: relative;
+left: 450px;
+top: 125px;}
+
+.I3{background-image: url(./Pictures/JavaScript\ Icon.jpg);
+height: 250px;
+background-size: 250px;
+background-repeat: no-repeat;
+position: relative;
+left: 800px;
+bottom: 125px;}
+
+.I4{background-image: url(./Pictures/PHP\ Icon.jpeg);
+height: 250px;
+background-size: 250px;
+background-repeat: no-repeat;
+position: relative;
+left: 1150px;
+bottom: 375px;}
+
+.I5{background-image: url(./Pictures/ActionScript_icon.png);
+height: 250px;
+background-size: 250px;
+background-repeat: no-repeat;
+position: relative;
+left: 1500px;
+bottom: 625px;}
+
+.H1{text-align: center;
+position: relative;
+bottom: 625px;
+left: 650px;}
+.H2{text-align: center;
+position: relative;
+bottom: 663px;
+left: 900px;}

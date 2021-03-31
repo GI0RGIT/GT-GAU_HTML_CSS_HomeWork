@@ -1,0 +1,77 @@
+body{background-image: url(../HomePage/Background.jpg);}
+
+h1{position: relative;
+left: 750px;}
+
+.D1{background-image: url(./Pictures/Picture1.jfif);
+height: 400px;
+background-size: 400px;
+background-repeat: no-repeat;
+position: relative;
+left: 250px;}
+
+.P1{position: relative;
+bottom: 420px;
+left: 660px;}
+.P2{position: relative;
+left: 750px;
+bottom: 495px;}
+
+.P3{position: relative;
+left: 660px;
+bottom: 510px;}
+
+.P4{position: relative;
+left: 660px;
+bottom: 525px;}
+
+.P5{position: relative;
+left: 660px;
+bottom: 480px;}
+.P6{position: relative;
+left: 660px;
+bottom: 495px;}
+.P7{position: relative;
+left: 660px;
+bottom: 510px;}
+.P8{position: relative;
+left: 660px;
+bottom: 525px;}
+.P9{position: relative;
+left: 220px;
+bottom: 540px;}
+
+.P10{position: relative;
+left: 220px;
+bottom: 555px;}
+
+.D2{background-image: url(./Pictures/Picture2.jpg);
+height: 500px;
+background-size: 500px;
+background-repeat: no-repeat;
+position: relative;
+bottom: 500px;
+left: 660px;}
+
+.P11{position: relative;
+left: 220px;
+bottom: 700px;}
+.P12{position: relative;
+left: 220px;
+bottom: 715px;}
+.P13{position: relative;
+left: 220px;
+bottom: 730px;}
+
+.L1{position: relative;
+bottom: 730px;
+left: 100px;}
+            
+.H1{text-align: center;
+position: relative;
+right: 200px;
+bottom: 700px;}
+.H2{text-align: center;
+position: relative;
+bottom: 741px;
+left: 100px;}
